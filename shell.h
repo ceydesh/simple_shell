@@ -12,7 +12,6 @@
 #include <dirent.h>
 #include <signal.h>
 
-
 /*constants*/
 #define EXTERNAL_COMMAND 1
 #define INTERNAL_COMMAND 2
